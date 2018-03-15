@@ -1,0 +1,28 @@
+body{
+  background: rgb(40, 40, 40 );
+  color: FB8B24;
+  font-size: 23px;
+  font-family: Helvetica;
+  text-align: center;
+}
+h1{
+  font-family: Courier;
+  color: red;
+  font-weight: lighter;
+  font-size: 50px;
+  text-align: center;
+}
+h2 {
+  font-family: Courier;
+  color: pink;
+  font-weight: lighter;
+  font-size: 8px;
+}
+a {
+  color: yellow;
+  text-align: center;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
